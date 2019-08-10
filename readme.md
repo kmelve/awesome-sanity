@@ -106,7 +106,7 @@ These plugins add widgets or functionality to your dashboard tool.
 - [Cats dashboard widget](https://github.com/sanity-io/example-dashboard-widget-cats) - A dashboard widget for Sanity Content Studio
 
 ### How-to's
-- [Netlify from Sanity](https://github.com/sanity-io/netlify-form-sanity) - How to use Netlify Forms and Functions to submit data to Sanity.io
+- [How to use Netlify Forms with Sanity](https://github.com/sanity-io/netlify-form-sanity) - How to use Netlify Forms and Functions to submit data to Sanity.io
 
 ### Studio Inspiration
 Other people's approach to structuring the studio
@@ -138,12 +138,15 @@ Other people's approach to structuring the studio
 - [Make your own podcasting platform!](https://dev.to/kmelve/make-your-own-podcasting-platform-e5o) - Knut Melvær 
 - [My brand new blog powered by Sanity.io](https://staticfirst.dev/blog/2019/04/my-brand-new-blog-powered-by-sanity-io-gatsby/) - Markus Schork
 - [Norwegian CMS startup Sanity - The New Kid in Town](https://www.cms-connected.com/News-Archive/June-2018/Norwegian-CMS-startup-Sanity-The-New-Kid-in-Town) - CMS Connected
+- [How To Make A Speech Synthesis Editor](https://www.smashingmagazine.com/2019/03/sanity-portabletext-speech-synthesis/) – Knut Melvær
+- [Portfolio + Blog con React, Gatsby y Sanity. (Parte 1)](https://alotama.com/blog/portfolio-blog-con-react-gatsby-y-sanity-1-parte) – Sebastián A. Tamashiro
 
 ### Podcasts
 - [Structured Content Done Right with Sanity.io](https://devmode.fm/episodes/structured-content-done-right-with-sanity-io) - devMode.fm
 - [Headless CMS - Interview with Simen Svale Skogsrud](https://cherryleaf.podbean.com/e/48-headless-cms-interview-with-simen-svale-skogsrud/) - The Cherryleaf Podcast
 - [Structuring Content with Simen Svale Skogsrud and Knut Melvær of Sanity.io](https://www.heavybit.com/library/podcasts/jamstack-radio/ep-42-structuring-content-with-simen-svale-skogsrud-and-knut-melvaer-of-sanity-io/) - JAMStack Radio
 - [Sanity.io w/ Knut Melvær](https://www.htmlallthethings.com/Podcast/5d41e97d6a070d0011eb656d) - HTML All The Things
+– [Sanity.io with Simen Skogsrud & Knut Melvær](https://shoptalkshow.com/episodes/372/) – ShopTalk Show
 - [Syntax.fm](https://syntax.fm/) - Sanity is a regular sponsor of Syntax.fm
 
 ### Videos
